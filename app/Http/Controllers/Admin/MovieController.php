@@ -29,7 +29,10 @@ class MovieController extends Controller
 
     public function store(Request $request)
     {
+        $movieId = Movie::max('id') + 1;
+
         Movie::create([
+            'id' => $movieId,
             'title' => $request->title,
             'description' => $request->description,
             'image' => $request->image,
