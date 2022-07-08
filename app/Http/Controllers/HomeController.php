@@ -51,10 +51,8 @@ class HomeController extends Controller
     public function ratingStore(Request $request, Movie $movie)
     {
         $request->validate(['rating' => 'required']);
-        $rating = Rating::query()->latest()->first()->id;
 
         Rating::create([
-            'id' => $rating + 1,
             'movie_id' => $movie->id,
             'user_id' => auth()->id(),
             'rating' => $request->rating
