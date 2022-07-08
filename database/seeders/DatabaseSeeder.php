@@ -16,12 +16,6 @@ class DatabaseSeeder extends Seeder
     {
         $this->call(MoviesTableSeeder::class);
         $this->call(UsersTableSeeder::class);
-        User::create([
-            'name' => 'admin',
-            'email' => 'admin@admin.com',
-            'password' => bcrypt('password'),
-            'role' => 1,
-        ]);
         $this->call(RatingsTableSeeder::class);
     }
 }
