@@ -30,8 +30,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Dong Goo, Choi Woo Shik, Kim Da Mi, Kim Sung Chul, Park Won Sang, Roh Jeong Eui',
                 'episode' => 16,
                 'slug' => 'our-beloved-summer',
+                'image' => 'https://i.mydramalist.com/4QLgQ_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             1 => 
             array (
@@ -44,8 +45,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Baek Hyun Jin, Han Hyo Joo, Jo Woo Jin, Lee Ji Ha, Park Hyung Shik, Park Joo Hee',
                 'episode' => 12,
                 'slug' => 'happiness',
+                'image' => 'https://i.mydramalist.com/BWXjV_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             2 => 
             array (
@@ -58,8 +60,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jeon Yeo Bin, Jo Han Chul, Kim Yeo Jin, Kwak Dong Yeon, Ok Taec Yeon, Song Joong Ki',
                 'episode' => 20,
                 'slug' => 'vincenzo',
+                'image' => 'https://i.mydramalist.com/vAnBe_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             3 => 
             array (
@@ -72,8 +75,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Hong Seung Hee, Ji Jin Hee, Jung Ae Yun, Lee Je Hoon, Shin Soo Oh, Tang Jun Sang',
                 'episode' => 10,
                 'slug' => 'move-to-heaven',
+                'image' => 'https://i.mydramalist.com/Rle36_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             4 => 
             array (
@@ -86,8 +90,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Cha Ji Yeon, Esom, Kim Eui Sung, Lee Je Hoon, Lee Yoo Joon, Pyo Ye Jin',
                 'episode' => 16,
                 'slug' => 'taxi-driver',
+                'image' => 'https://i.mydramalist.com/2Bkww_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             5 => 
             array (
@@ -100,8 +105,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Choi Dae-Hoon, Choi Sung Eun, Kim Shin-Rok, Shin Ha-Kyun, Yeo Jin Goo',
                 'episode' => 16,
                 'slug' => 'beyond-evil',
+                'image' => 'https://i.mydramalist.com/0l4wY_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             6 => 
             array (
@@ -114,8 +120,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Bo Hyun, Han So Hee, Jang Yool, Kim Sang Ho, Lee Hak Joo, Park Hee Soon',
                 'episode' => 8,
                 'slug' => 'my-name',
+                'image' => 'https://i.mydramalist.com/jD3br_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             7 => 
             array (
@@ -128,8 +135,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Bum, Kim Myung Min, Lee David, Lee Jung Eun, Lee Soo Kyung, Ryu Hye Young',
                 'episode' => 16,
                 'slug' => 'law-school',
+                'image' => 'https://i.mydramalist.com/jd5jw_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             8 => 
             array (
@@ -142,8 +150,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Heo Sung Tae, Jung Ho Yeon, Lee Jung Jae, Park Hae Soo, Wi Ha Joon',
                 'episode' => 9,
                 'slug' => 'squid-game',
+                'image' => 'https://i.mydramalist.com/X6vkX_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             9 => 
             array (
@@ -156,8 +165,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Hyo Seop, Choi Byung Chan, Kim Min Gue, Kim Se Jeong, Lee Deok Hwa, Seol In Ah',
                 'episode' => 12,
                 'slug' => 'business-proposal',
+                'image' => 'https://i.mydramalist.com/v24Pg_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             10 => 
             array (
@@ -170,8 +180,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jeon Mi Do, Kim Ji Hyun, Lee Moo Saeng, Lee Tae Hwan, Son Ye Jin, Yeon Woo Jin',
                 'episode' => 12,
                 'slug' => 'thirty-nine',
+                'image' => 'https://i.mydramalist.com/v2bEX_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             11 => 
             array (
@@ -184,8 +195,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Bona, Choi Hyun Wook, Kim Tae Ri, Kim Young Sun, Lee Joo Myung, Nam Joo Hyuk',
                 'episode' => 16,
                 'slug' => 'twenty-one-twenty-five',
+                'image' => 'https://i.mydramalist.com/ROOPo_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             12 => 
             array (
@@ -198,8 +210,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jung Woon Sun, Kim Mi Kyung, Park Min Young, Song Kang, Yoon Park, Yura',
                 'episode' => 16,
                 'slug' => 'forecasting-love-and-weather',
+                'image' => 'https://i.mydramalist.com/11XPQ_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             13 => 
             array (
@@ -212,8 +225,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jo Yi Hyun, Kim Byung Chul, Park Ji Hoo, Park Solomon, Yoo In Soo, Yoon Chan Young',
                 'episode' => 12,
                 'slug' => 'all-of-us-are-dead',
+                'image' => 'https://i.mydramalist.com/WRQmX_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             14 => 
             array (
@@ -226,8 +240,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Bum, Kim Jae Yong, Rain, Seo Ji Young, Son Na Eun, Uee',
                 'episode' => 16,
                 'slug' => 'ghost-doctor',
+                'image' => 'https://i.mydramalist.com/peyDr_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             15 => 
             array (
@@ -240,8 +255,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Bae Doo Na, Gong Yoo, Heo Sung Tae, Jung Soon Won, Lee Joon, Lee Moo Saeng',
                 'episode' => 8,
                 'slug' => 'the-silent-sea',
+                'image' => 'https://i.mydramalist.com/wLdVN_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             16 => 
             array (
@@ -254,8 +270,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Gong Seung Yeon, Jung Jin Young, Kwon Na Ra, Lee Jin Wook, Lee Joon, Park Myung Shin',
                 'episode' => 16,
                 'slug' => 'bulgasal',
+                'image' => 'https://i.mydramalist.com/W4krO_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             17 => 
             array (
@@ -268,8 +285,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jang Seung Jo, Jung Hae In, Kim Hye Yoon, Kim Ji Soo, Yoo In Na, Yoon Se Ah',
                 'episode' => 16,
                 'slug' => 'snowdrop',
+                'image' => 'https://i.mydramalist.com/RKBWE_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             18 => 
             array (
@@ -282,8 +300,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Cha Shi Won, Han Ji Eun, Lee Dong Wook, N, Sung Ji Ru, Wi Ha Joon',
                 'episode' => 12,
                 'slug' => 'bad-and-crazy',
+                'image' => 'https://i.mydramalist.com/RVbJz_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             19 => 
             array (
@@ -296,8 +315,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Cha Seung Won, Kim Hong Pa, Kim Shin Rok, Kim Soo Hyun, Lee Seol, Yang Kyung Won',
                 'episode' => 8,
                 'slug' => 'one-ordinary-day',
+                'image' => 'https://i.mydramalist.com/jP5Vd_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             20 => 
             array (
@@ -310,8 +330,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Do Yoon, Kim Hyun Joo, Park Jung Min, Won Jin Ah, Yang Ik Jun, Yoo Ah In',
                 'episode' => 6,
                 'slug' => 'hellbound',
+                'image' => 'https://i.mydramalist.com/6weyW_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             21 => 
             array (
@@ -324,8 +345,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Choi Hee Seo, Choi Hong Il, Jang Ki Yong, Kim Joo Heon, Nam Ki Ae, Song Hye Kyo',
                 'episode' => 16,
                 'slug' => 'now-we-are-breaking-up',
+                'image' => 'https://i.mydramalist.com/BKZ4z_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             22 => 
             array (
@@ -338,8 +360,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jang Hee Jin, Kang Hoon, Kang Mal Geum, Lee Deok Hwa, Lee Jun Ho, Lee Se Young',
                 'episode' => 17,
                 'slug' => 'red-sleeve',
+                'image' => 'https://i.mydramalist.com/2WpKk_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             23 => 
             array (
@@ -352,8 +375,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Byun Jung Soo, Choi Dae Hoon, Im Soo Jung, Jang Hyun Sung, Jin Kyung, Lee Do Hyun',
                 'episode' => 16,
                 'slug' => 'melancholia',
+                'image' => 'https://i.mydramalist.com/WDo4P_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             24 => 
             array (
@@ -366,8 +390,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jo Han Chul, Joo Ji Hoon, Jun Ji Hyun, Jun Suk Ho, Oh Jung Se, Sung Dong Il',
                 'episode' => 16,
                 'slug' => 'jirisan',
+                'image' => 'https://i.mydramalist.com/EwpK7_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             25 => 
             array (
@@ -380,8 +405,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Bae Yoon Kyung, Choi Byung Chan, Jung Chae Yeon, Nam Yoon Su, Park Eun Bin, Rowoon',
                 'episode' => 20,
                 'slug' => 'the-kings-affection',
+                'image' => 'https://i.mydramalist.com/XVVjx_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             26 => 
             array (
@@ -394,8 +420,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => ' Jang Young Nam, Kim Do Hyun, Kim Ji Eun, Kim Jong Tae, Namgoong Min, Park Ha Sun',
                 'episode' => 12,
                 'slug' => 'the-veil',
+                'image' => 'https://i.mydramalist.com/Xkn8n_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             27 => 
             array (
@@ -408,8 +435,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Bo Hyun, Jung Soon Won, Kim Go Eun, Lee Yoo Bi, Park Ji Hyun, Park Jin Young',
                 'episode' => 14,
                 'slug' => 'yumis-cell',
+                'image' => 'https://i.mydramalist.com/4JzlJ_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             28 => 
             array (
@@ -422,8 +450,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'In Gyo Jin, Jo Han Chul, Kim Seon Ho, Lee Bong Ryun, Lee Sang Yi, Shin Min Ah',
                 'episode' => 16,
                 'slug' => 'hometown-cha-cha-cha',
+                'image' => 'https://i.mydramalist.com/ZeKv1_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             29 => 
             array (
@@ -436,8 +465,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Hong Kyung, Jung Hae In, Kim Sung Kyun, Koo Kyo Hwan, Lee Jun Young, Son Seok Koo',
                 'episode' => 6,
                 'slug' => 'dp',
+                'image' => 'https://i.mydramalist.com/XkYln_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             30 => 
             array (
@@ -450,8 +480,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Gyeol Yu, Kim Yi Seo, Lee Sang Jun, Yang Hong Seok, Yeri',
                 'episode' => 16,
                 'slug' => 'blue-birthday',
+                'image' => 'https://i.mydramalist.com/x1JYw_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             31 => 
             array (
@@ -464,8 +495,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Chae Jong Hyeop, Ha Do Gwon, Nam Ji Hyun, Son Kwang Eop, Song Ji Hyo, Yoon Da Young',
                 'episode' => 8,
                 'slug' => 'the-witchs-diner',
+                'image' => 'https://i.mydramalist.com/w6wqn_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             32 => 
             array (
@@ -478,8 +510,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Nae Sang, Ji Sung, Kim Jae Kyung, Kim Min Jung, Park Gyu Young, Park Jin Young',
                 'episode' => 16,
                 'slug' => 'the-devil-judge',
+                'image' => 'https://i.mydramalist.com/XJL7Z_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             33 => 
             array (
@@ -492,8 +525,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => ' Chae Jong Hyeop, Han Eu Ddeum, Han So Hee, Kim Min Gwi, Song Kang, Yang Hye Ji',
                 'episode' => 10,
                 'slug' => 'nevertheless',
+                'image' => 'https://i.mydramalist.com/w6jkA_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             34 => 
             array (
@@ -506,8 +540,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Jeon Mi Do, Jo Jung Suk, Jung Kyung Ho, Kim Dae Myung, Shin Hyun Bin, Yoo Yeon Seok',
                 'episode' => 12,
                 'slug' => 'hospital-playlist-2',
+                'image' => 'https://i.mydramalist.com/dKY0d_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             35 => 
             array (
@@ -520,8 +555,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => ' Choi Hyun Wook, Kim Kang Hoon, Kim Sang Kyung, Oh Na Ra, Son Sang Yeon, Tang Jun Sang',
                 'episode' => 16,
                 'slug' => 'racket-boys',
+                'image' => 'https://i.mydramalist.com/QARr2_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             36 => 
             array (
@@ -534,8 +570,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Bae In Hyuk, Jang Ki Yong, Kang Han Na, Kim Do Wan, Lee Hye Ri, Park Kyung Hye',
                 'episode' => 16,
                 'slug' => 'my-roommate-is-a-gumiho',
+                'image' => 'https://i.mydramalist.com/xJdOy_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             37 => 
             array (
@@ -548,8 +585,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Woo Yeon, Baek Ji Won, Jung Woo, Kim Nam Hee, Lee Soo Hyun, Oh Yeon Seo',
                 'episode' => 13,
                 'slug' => 'mad-for-each-other',
+                'image' => 'https://i.mydramalist.com/xJ7pr_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             38 => 
             array (
@@ -562,8 +600,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Dawon, Kang Tae Oh, Lee Soo Hyuk, Park Bo Young, Seo In Guk, Shin Do Hyun',
                 'episode' => 16,
                 'slug' => 'doom-at-your-service',
+                'image' => 'https://i.mydramalist.com/vlNOX_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             39 => 
             array (
@@ -576,8 +615,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Chani, Im Na Young, Jeong Ji So, Jeong Yun Ho, Lee Jun Young, Park Ji Yeon',
                 'episode' => 12,
                 'slug' => 'imitation',
+                'image' => 'https://i.mydramalist.com/WwbnX_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             40 => 
             array (
@@ -590,8 +630,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Geum Sae Rok, Go Min Si, Lee Do Hyun, Lee Sang Yi, Oh Man Suk, Uhm Hyo Sub',
                 'episode' => 12,
                 'slug' => 'youth-of-may',
+                'image' => 'https://i.mydramalist.com/dNO1d_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             41 => 
             array (
@@ -604,8 +645,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Choi Soo Young, Choi Tae Joon, Han Ji An, Hwang Chan Sung, Kim Min Kyu, Kim Sun Hyuk',
                 'episode' => 16,
                 'slug' => 'so-i-married-an-anti-fan',
+                'image' => 'https://i.mydramalist.com/QkmV5_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             42 => 
             array (
@@ -618,8 +660,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Baek Eun Hye, Choi Woo Seong, Jang Na Ra, Jung Yong Hwa, Kang Hong Suk, Kang Mal Geum',
                 'episode' => 16,
                 'slug' => 'sell-your-haunted-house',
+                'image' => 'https://i.mydramalist.com/v6LQB_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             43 => 
             array (
@@ -632,6 +675,7 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Chun Ho Jin, Kim Ji Won, Lee El, Lee Ki Woo, Lee Min Ki, Son Seok Koo',
                 'episode' => 16,
                 'slug' => 'my-liberation-notes',
+                'image' => 'https://i.mydramalist.com/jd5jw_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
                 'updated_at' => '2022-07-05 14:00:32',
             ),
@@ -646,8 +690,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Cha Seung Won, Han Ji Min, Lee Byung Hun, Lee Jung Eun, Shin Min Ah, Uhm Jung Hwa',
                 'episode' => 20,
                 'slug' => 'our-blues',
+                'image' => 'https://i.mydramalist.com/48LYQ_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             45 => 
             array (
@@ -660,8 +705,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Hae Sook, Kim Hee Sun, Lee Soo Hyuk, Moon Seo Youn, Rowoon, Yoon Ji On',
                 'episode' => 16,
                 'slug' => 'tomorrow',
+                'image' => 'https://i.mydramalist.com/qjBQ2_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             46 => 
             array (
@@ -674,8 +720,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ahn Jae Wook, Kyung Soo Jin, Lee Hee Joon, Lee Seung Gi, Park Joo Hyun, Woo Ji Hyun',
                 'episode' => 20,
                 'slug' => 'mouse',
+                'image' => 'https://i.mydramalist.com/XNeKO_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             47 => 
             array (
@@ -688,8 +735,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Kim Yoon Hye, Kim Young Dae, Lee Jung Shin, Lee Sung Kyung, Park So Jin, Yoon Jong Hoon',
                 'episode' => 16,
                 'slug' => 'shooting-star',
+                'image' => 'https://i.mydramalist.com/BAwvb_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             48 => 
             array (
@@ -702,8 +750,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Choi Sung Eun, Hong Jung Min, Hwang In Yeop, Ji Chang Wook, Ji Hye Won, Oh So Hyun',
                 'episode' => 6,
                 'slug' => 'the-sound-of-magic',
+                'image' => 'https://i.mydramalist.com/djDkW_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             49 => 
             array (
@@ -716,8 +765,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Ha Joon, Jo In, Kim Jae Wook, Krystal Jung, Yoo In Young, Yoon San Ha',
                 'episode' => 16,
                 'slug' => 'crazy-love',
+                'image' => 'https://i.mydramalist.com/4848k_4f.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
             50 => 
             array (
@@ -730,8 +780,9 @@ class MoviesTableSeeder extends Seeder
                 'artist' => 'Cho Seung Woo, Park Shin Hye. Heo Joon-Seok, Tae In Ho',
                 'episode' => 16,
                 'slug' => 'sisyphus-the-myth',
+                'image' => 'https://i.mydramalist.com/Bym1q_4c.jpg',
                 'created_at' => '2022-07-05 14:00:32',
-                'updated_at' => '2022-07-05 14:00:32',
+                'updated_at' => '2022-07-08 07:34:55',
             ),
         ));
         

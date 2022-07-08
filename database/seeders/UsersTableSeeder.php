@@ -5155,6 +5155,18 @@ class UsersTableSeeder extends Seeder
                 'created_at' => '2022-07-05 15:47:02',
                 'updated_at' => '2022-07-05 15:47:02',
             ),
+            428 => 
+            array (
+                'id' => 430,
+                'name' => 'Lavern Rutherford',
+                'email' => 'admin@admin.com',
+                'email_verified_at' => '2022-07-08 07:34:47',
+                'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
+                'role' => 1,
+                'remember_token' => 'LxGZgLBwUY',
+                'created_at' => '2022-07-08 07:34:47',
+                'updated_at' => '2022-07-08 07:34:47',
+            ),
         ));
         
         
