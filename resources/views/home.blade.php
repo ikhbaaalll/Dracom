@@ -52,7 +52,7 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <div class="container-fluid bg-dark">
+    <div class="container-fluid" style="background-color: #000;">
         <div class="row d-flex justify-content-center px-5">
             <h2 class="ml-5 text-white">Drama Korea</h2>
             @foreach ($movies as $movie)
