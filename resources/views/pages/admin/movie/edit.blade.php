@@ -62,7 +62,8 @@
                 <div class="form-group">
                     <label class="form-label" for="image">Poster</label>
                     <input type="text" name="image" value="{{ $movie->image }}" id="image"
-                        class="form-control @error('image') is-invalid @enderror" required placeholder="Masukkan Artis">
+                        class="form-control @error('image') is-invalid @enderror" required
+                        placeholder="Masukkan link gambar/poster">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-danger" type="submit">

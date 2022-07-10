@@ -19,9 +19,8 @@
         <div class="row d-flex justify-content-center px-5">
             <h2 class="ml-5">Drama Korea</h2>
             @if ($userRating->count() < 5)
-                <h6 class="text-black text-center">Anda harus membuat 5 rating untuk mendapatkan rekomendasi film.
-                    {{ 5 - $userRating->count() }}
-                    film lagi!</h6>
+                <h6 class="text-black text-center">Sebelumnya anda harus memberi rating minimal 5 film untuk mendapatkan
+                    rekomendasi film!</h6>
             @else
                 <div class="col-lg-6 col-sm-12 col-md-10">
                     <div class="card p-3">

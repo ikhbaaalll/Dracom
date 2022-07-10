@@ -27,7 +27,7 @@
                                 <h5 class="text-black font-bold">Episode</h5>
                                 <h6 class="text-black">{{ $movie->episode }}</h6>
                                 <h5 class="text-black font-bold">Rating</h5>
-                                <h6 class="text-black">&#9733; {{ number_format($movie->ratings_avg_rating, 2) }}</h6>
+                                <h6 class="text-warning">&#9733; {{ number_format($movie->ratings_avg_rating, 2) }}</h6>
                                 @auth
                                     <a href="{{ route('movie.show', ['movie' => $movie, 'rating' => true]) }}"
                                         class="btn btn-sm btn-danger text-white mt-2">Beri Rating</a>
@@ -52,9 +52,9 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <div class="container-fluid bg-white">
+    <div class="container-fluid bg-dark">
         <div class="row d-flex justify-content-center px-5">
-            <h2 class="ml-5">Drama Korea</h2>
+            <h2 class="ml-5 text-white">Drama Korea</h2>
             @foreach ($movies as $movie)
                 <div class="col-sm-6 col-md-4 col-lg-4 pb-5 d-flex justify-content-center">
                     <div class="card h-100" style="width: 80%;">
@@ -71,8 +71,9 @@
                                 <h6 class="text-black ">{{ $movie->director }}</h6>
                                 <h5 class="text-black font-bold">Pemain</h5>
                                 <h6 class="text-black ">{{ substr($movie->artist, 0, 20) }}</h6>
-                                <h5 class="text-black font-bold">Rating</h5>
-                                <h6 class="text-black ">&#9733; {{ number_format($movie->ratings_avg_rating, 2) }}
+                                <h5 class="text-warning font-bold">Rating</h5>
+                                <h6 class="text-warning">&#9733;
+                                    {{ number_format($movie->ratings_avg_rating, 2) }}
                                 </h6>
                             </div>
                         </div>

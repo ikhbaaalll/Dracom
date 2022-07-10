@@ -9,32 +9,32 @@
             </div>
             <div class="col-7">
                 <h1 class="text-black">{{ $movie->title }}</h1>
-                <h4 class="text-black">{{ number_format($movie->ratings_avg_rating, 2) }} &#9733;</h4>
+                <h4 class="text-warning">{{ number_format($movie->ratings_avg_rating, 2) }} &#9733;</h4>
                 <div class="card bg-white bg-opacity-50">
                     <div class="card-body d-flex">
                         <table class="table borderless">
                             <tr>
-                                <td>Tanggal Tayang</td>
+                                <td style="width: 150px;">Tanggal Tayang</td>
                                 <th>{{ $movie->show_date }}</th>
                             </tr>
                             <tr>
-                                <td>Durtdi</td>
+                                <td style="width: 150px;">Durasi</td>
                                 <th>{{ $movie->duration }}</th>
                             </tr>
                             <tr>
-                                <td>Episode</td>
+                                <td style="width: 150px;">Episode</td>
                                 <th>{{ $movie->episode }}</th>
                             </tr>
                             <tr>
-                                <td>Sutradara</td>
+                                <td style="width: 150px;">Sutradara</td>
                                 <th>{{ $movie->director }}</th>
                             </tr>
                             <tr>
-                                <td>Artis</td>
+                                <td style="width: 150px;">Artis</td>
                                 <th>{{ $movie->artist }}</th>
                             </tr>
                             <tr>
-                                <td>Status</td>
+                                <td style="width: 150px;">Status</td>
                                 <th>Completed</th>
                             </tr>
                         </table>

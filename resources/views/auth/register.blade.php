@@ -59,6 +59,12 @@
 
                         <div class="row mx-auto">
                             <button class="btn btn-danger mx-auto px-4" type="submit">{{ __('Daftar') }}</button>
+                            <span class="text-black text-center font-bold mt-2">Perhatian! Pembuatan akun hanya berlaku
+                                sekali
+                                dan tidak
+                                dapat
+                                melakukan perubahan, Mohon
+                                diingat untuk username dan password yang digunakan.</span>
                         </div>
 
                     </form>
